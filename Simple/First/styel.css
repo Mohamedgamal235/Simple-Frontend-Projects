@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, sans-serif;
+    
+}
+
+.exp{
+    background-color:rgb(11, 221, 221);
+    border-radius: 3px;
+    padding: 2px 2px;
+}
+
+.small{
+    font-size: small;
+    color: gray;
+}
+
+
+.nada{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #000;
+}
+
+.man{
+    width: 200px;
+    height: 200px;
+
+    border-radius: 10px;
+    border: 3px dotted #1b4ec3;
+}
+
+.Card1 {
+    width: 400px;
+    background: #fbf9f9;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 7px gray;
+    text-align: center;
+}
+
+.Card2{
+    width: 400px;
+    background:rgb(192, 227, 227);
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 7px gray;
+    text-align: center;
+    border-left: 10px solid blue;
+}
+
+p{
+    text-align: left ;
+    padding: 2px 5px;
+}
